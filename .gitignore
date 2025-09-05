@@ -1,0 +1,50 @@
+# macOS system files
+.DS_Store
+
+# Node dependencies
+/node_modules
+
+# Vite build output
+/dist
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor directories and files
+.vscode
+.idea
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Test coverage
+coverage
+
+# TypeScript build cache & output
+*.tsbuildinfo
+
+# Parcel cache
+.cache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Others
+*.local
+
+# Storybook build outputs (if using Storybook)
+.out
+
+# If using Mac Intel/ARM: ignore AppleDouble resource forks
+._*
