@@ -18,7 +18,7 @@ A simple weather dashboard built with Vite, React, and TypeScript. This app allo
 
 ### 1. Clone and install
 
-git clone https://github.com/Borczuk-Mariusz/Weather-App.git
+git clone [repository-url]
 cd WHEATHER-APP
 npm install
 
@@ -74,10 +74,10 @@ App runs at [http://localhost:5173](http://localhost:5173) by default.
 ## 📂 Project Structure
 
 
-src/ # App source code
-.env.example # Environment variable example/template
-.gitignore # Excludes node_modules and .env
-README.md # 
+src/
+.env.example 
+.gitignore 
+README.md 
 ---
 
 ## 🙌 Contributions
@@ -88,7 +88,7 @@ Contributions welcome! Feel free to open issues or PRs for new features or bugfi
 
 ## 📝 License
 
-[MIT](LICENSE) (or your preferred open-source license)
+[MIT](LICENSE.txt)
 
 ---
 
